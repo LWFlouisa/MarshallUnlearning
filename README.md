@@ -13,7 +13,6 @@ My eventual goal is to way to combine the best of both worlds between distribute
 ## Previous Projects
 [IMPPub](https://github.com/LWFlouisa/IMPPub)<br />
 [AdvBaysian](https://github.com/LWFlouisa/AdvBaysian)<br />
-[Aluca Language](https://github.com/LWFlouisa/AlucaLanguage)<br />
 [AutoSynth](https://github.com/LWFlouisa/AutoSynth)<br />
 [MindMapRSS](https://github.com/LWFlouisa/MindMapRSS)<br />
 [Complementary Flavors](https://github.com/LWFlouisa/Complementary)
@@ -21,4 +20,5 @@ My eventual goal is to way to combine the best of both worlds between distribute
 ## As Part Of New Type Of Chatbot
 These are part of a chatbot project for niche genres that aren't quite fiction or non-fiction, but reside in areas of ambiguity, sort of like Alternate History novels.
 
+[Aluca Language](https://github.com/LWFlouisa/AlucaLanguage)<br />
 [AhusacosTranspiler]()
