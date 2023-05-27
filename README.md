@@ -22,3 +22,6 @@ These are part of a chatbot project for niche genres that aren't quite fiction o
 
 [Aluca Language](https://github.com/LWFlouisa/AlucaLanguage)<br />
 [AhusacosTranspiler](https://github.com/LWFlouisa/AhusacosTranspiler)
+
+### Webcomic In Context For Setting
+[Uploaded Fairy](https://lwflouisa.github.io/UploadedFairy//003#top-page)
