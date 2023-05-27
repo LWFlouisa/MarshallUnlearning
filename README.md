@@ -8,10 +8,12 @@ As part of a continuous research project on storing continuous spaced out data r
 
 [Distributing RSS and Marshall Data](https://lwflouisa.github.io/AskPhind/PhindMeAnAnswer/DistributingSpacedRSSData)
 
+My eventual goal is to way to combine the best of both worlds between distributed file systems, and the benefits of localhosting files.
+
 ## Previous Projects
 [IMPPub](https://github.com/LWFlouisa/IMPPub)<br />
 [AdvBaysian](https://github.com/LWFlouisa/AdvBaysian)<br />
 [Aluca Language](https://github.com/LWFlouisa/AlucaLanguage)<br />
 [AutoSynth](https://github.com/LWFlouisa/AutoSynth)
 [MindMapRSS](https://github.com/LWFlouisa/MindMapRSS)
-[Complementary Flavors]()
+[Complementary Flavors](https://github.com/LWFlouisa/Complementary)
