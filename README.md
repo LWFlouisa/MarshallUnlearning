@@ -17,3 +17,8 @@ My eventual goal is to way to combine the best of both worlds between distribute
 [AutoSynth](https://github.com/LWFlouisa/AutoSynth)<br />
 [MindMapRSS](https://github.com/LWFlouisa/MindMapRSS)<br />
 [Complementary Flavors](https://github.com/LWFlouisa/Complementary)
+
+## As Part Of New Type Of Chatbot
+These are part of a chatbot project for niche genres that aren't quite fiction or non-fiction, but reside in areas of ambiguity, sort of like Alternate History novels.
+
+[AhusacosTranspiler]()
