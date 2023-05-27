@@ -14,6 +14,6 @@ My eventual goal is to way to combine the best of both worlds between distribute
 [IMPPub](https://github.com/LWFlouisa/IMPPub)<br />
 [AdvBaysian](https://github.com/LWFlouisa/AdvBaysian)<br />
 [Aluca Language](https://github.com/LWFlouisa/AlucaLanguage)<br />
-[AutoSynth](https://github.com/LWFlouisa/AutoSynth)
-[MindMapRSS](https://github.com/LWFlouisa/MindMapRSS)
+[AutoSynth](https://github.com/LWFlouisa/AutoSynth)<br />
+[MindMapRSS](https://github.com/LWFlouisa/MindMapRSS)<br />
 [Complementary Flavors](https://github.com/LWFlouisa/Complementary)
