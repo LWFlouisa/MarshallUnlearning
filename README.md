@@ -21,4 +21,4 @@ My eventual goal is to way to combine the best of both worlds between distribute
 These are part of a chatbot project for niche genres that aren't quite fiction or non-fiction, but reside in areas of ambiguity, sort of like Alternate History novels.
 
 [Aluca Language](https://github.com/LWFlouisa/AlucaLanguage)<br />
-[AhusacosTranspiler]()
+[AhusacosTranspiler](https://github.com/LWFlouisa/AhusacosTranspiler)
