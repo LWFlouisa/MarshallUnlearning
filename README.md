@@ -9,7 +9,8 @@ As part of a continuous research project on storing continuous spaced out data r
 [Distributing RSS and Marshall Data](https://lwflouisa.github.io/AskPhind/PhindMeAnAnswer/DistributingSpacedRSSData)
 
 ## Previous Projects
-[IMPPub]()<br />
+[IMPPub](https://github.com/LWFlouisa/IMPPub)<br />
 [AdvBaysian](https://github.com/LWFlouisa/AdvBaysian)<br />
 [Aluca Language](https://github.com/LWFlouisa/AlucaLanguage)<br />
 [AutoSynth](https://github.com/LWFlouisa/AutoSynth)
+[]()
